@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|solutionrelative:librarywebapi.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.service\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|solutionrelative:librarywebapi.service\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|solutionrelative:librarywebapi.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.repository\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|solutionrelative:librarywebapi.repository\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|solutionrelative:librarywebapi.service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.service\\interfaces\\iborrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|solutionrelative:librarywebapi.service\\interfaces\\iborrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|solutionrelative:librarywebapi.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1F6673-5E47-4411-A7EA-43526397F75E}|LibraryWebApi.Service\\LibraryWebApi.Service.csproj|solutionrelative:librarywebapi.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|solutionrelative:librarywebapi.repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.repository\\repositories\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|solutionrelative:librarywebapi.repository\\repositories\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|solutionrelative:librarywebapi.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.webapi\\controllers\\borrowedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|solutionrelative:librarywebapi.webapi\\controllers\\borrowedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|solutionrelative:librarywebapi.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.domain\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|solutionrelative:librarywebapi.domain\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.domain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|solutionrelative:librarywebapi.domain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.domain\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567EACF7-CE65-4A40-B356-A2D08AE794B3}|LibraryWebApi.Domain\\LibraryWebApi.Domain.csproj|solutionrelative:librarywebapi.domain\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.repository\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|solutionrelative:librarywebapi.repository\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|solutionrelative:librarywebapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B0AC1E-323E-4A23-9585-929B26002C8D}|LibraryWebApi.WebAPI\\LibraryWebApi.WebAPI.csproj|solutionrelative:librarywebapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.repository\\migrations\\20240830095804_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|solutionrelative:librarywebapi.repository\\migrations\\20240830095804_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\UnitOfWork\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryWebApi.Repository\\UnitOfWork\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|c:\\users\\tgsuser111\\desktop\\rev_web_api\\librarywebapi\\librarywebapi.repository\\migrations\\20240830070824_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0456FE0-502C-4899-A2E7-31AF5BC57166}|LibraryWebApi.Repository\\LibraryWebApi.Repository.csproj|solutionrelative:librarywebapi.repository\\migrations\\20240830070824_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Service\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryWebApi.Service\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:50:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowedBookService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Services\\BorrowedBookService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Service\\Services\\BorrowedBookService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Services\\BorrowedBookService.cs",
+              "RelativeToolTip": "LibraryWebApi.Service\\Services\\BorrowedBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:50:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:43:02.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBorrowedBookService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Interfaces\\IBorrowedBookService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Service\\Interfaces\\IBorrowedBookService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Interfaces\\IBorrowedBookService.cs",
+              "RelativeToolTip": "LibraryWebApi.Service\\Interfaces\\IBorrowedBookService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:49:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "LibraryWebApi.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:49:40.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryWebApi.WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:52:56.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Service\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryWebApi.Service\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:48:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "LibraryWebApi.Service\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:51:11.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:43:55.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowedBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Repositories\\BorrowedBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\Repositories\\BorrowedBookRepository.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Repositories\\BorrowedBookRepository.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\Repositories\\BorrowedBookRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA3wBUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:43:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LibraryWebApi.WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:54:56.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrowedBookController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Controllers\\BorrowedBookController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.WebAPI\\Controllers\\BorrowedBookController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Controllers\\BorrowedBookController.cs",
+              "RelativeToolTip": "LibraryWebApi.WebAPI\\Controllers\\BorrowedBookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:17:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Models\\User.cs",
+              "RelativeToolTip": "LibraryWebApi.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:41:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Models\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Domain\\Models\\BorrowedBook.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Models\\BorrowedBook.cs",
+              "RelativeToolTip": "LibraryWebApi.Domain\\Models\\BorrowedBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:40:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Domain\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryWebApi.Domain\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:40:38.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Domain\\Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Domain\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "LibraryWebApi.Domain\\Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:40:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:44:33.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240830095804_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Migrations\\20240830095804_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\Migrations\\20240830095804_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Migrations\\20240830095804_InitialCreate2.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\Migrations\\20240830095804_InitialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:58:04.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:24:07.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\Program.cs",
+              "RelativeToolTip": "LibraryWebApi.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:55:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240830070824_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Migrations\\20240830070824_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryWebApi.Repository\\Migrations\\20240830070824_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.Repository\\Migrations\\20240830070824_InitialCreate.cs",
+              "RelativeToolTip": "LibraryWebApi.Repository\\Migrations\\20240830070824_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T07:08:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryWebApi.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\TGSUser111\\Desktop\\REV_WEB_API\\LibraryWebApi\\LibraryWebApi.WebAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryWebApi.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T06:57:59.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
